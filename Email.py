@@ -1,8 +1,8 @@
 import smtplib
 
 #Senders Info!
-Email = input("Enter Your Email: ")
-Pass = input("Enter Your Password: ")
+Email =  "hotbrewmills@gmail.com"
+Pass = "ckdgrquvbmaohfhb"
 Name = input("Enter Your Name: ")
 
 sent_from = Email
